@@ -2,4 +2,4 @@
 
 Para acessar:
 
-https://three1js.github.io
+https://boreias.github.io/three1js.github.io/
